@@ -6,6 +6,7 @@ Multiple-Choice Questions: Provides a series of questions with multiple answer o
 Instant Feedback: Shows whether the selected answer is correct or incorrect.
 Score Tracking: Keeps track of the user's score throughout the quiz.
 Responsive Design: Created with Tailwind CSS to ensure the app works well on all devices.
+
 Technologies Used:
 
 HTML5
